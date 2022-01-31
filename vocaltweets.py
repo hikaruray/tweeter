@@ -6,8 +6,8 @@ import random
 
 
 
-consumer_key = "GRIvPOLOxJLaCTYCLr4C9IZ8D"
-consumer_secret = "wehid5zMTzkSETf7laetszFQ5nlMIy8ic8wwDLnRmP5lyYSZ3Z"
+consumer_key = ""
+consumer_secret = ""
 
 callback_uri = 'oob'
 
