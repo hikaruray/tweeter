@@ -6,8 +6,8 @@ import random
 
 
 
-consumer_key = ""
-consumer_secret = ""
+consumer_key = "CONSUMERKEY"
+consumer_secret = "CONSUMERSECRET"
 
 callback_uri = 'oob'
 
